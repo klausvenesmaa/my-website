@@ -3,3 +3,8 @@
 This a demo website
 
 Updates made on master on GitHub before rebase
+
+## Repository purpose
+
+This change will conflict
+with remote side
