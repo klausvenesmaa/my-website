@@ -2,4 +2,4 @@
 
 This a demo website
 
-New edit from update-readme branch
+Updates made on master on GitHub before rebase
